@@ -5,7 +5,7 @@ import time
 import threading
 import tkinter as tk
 from tkinter import ttk, messagebox
-#qeqweqweqwe dsdf
+#qeqweqweqwe dsdf dfgdf
 # --- CRC16 Modbus implementation ---
 def crc16(data: bytes) -> int:
     crc = 0xFFFF
