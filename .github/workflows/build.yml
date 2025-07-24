@@ -31,4 +31,4 @@ jobs:
         with:
           files: dist/main.exe  # Путь к EXE-файлу
         env:
-          GITHUB_TOKEN: ${{ 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 }}  # Токен доступа
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN_ADMIN }}  # Токен доступа
